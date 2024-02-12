@@ -1,3 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+for = htmlFor
+class=classname 
+close the tag that wont need closing in html but its neccesery to close in react
+tabIndex 
