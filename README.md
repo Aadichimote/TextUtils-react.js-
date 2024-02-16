@@ -1,3 +1,13 @@
+# once you install the app run this command in proect terminal..
+to download package == `npm install react-scripts --save-dev`
+to run the app == `npm start`
+to optamize build == `npm run build`
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

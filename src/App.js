@@ -7,7 +7,7 @@ function App() {
   let [mode , setmode] = useState(`light`);
   let [alert , setAlert] = useState(null);
   
-  let showAlert = (Message, type) =>{
+  let showAlert = (Message, type) =>{ 
     setAlert({
       msg :Message,
       type: type
